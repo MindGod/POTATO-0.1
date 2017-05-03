@@ -1,0 +1,1 @@
+id|name|weapon|born|victims|dead|famous for|photo1|photo2
